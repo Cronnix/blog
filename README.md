@@ -9,4 +9,5 @@ Blog has comment functionality, which is animated with javascript so you can ope
 All in all, it was good effort and result for a week long project with no prior experience in webdev, however it needs some polish for me to use as my personal page, which takes time during current quick pace of the education. I am not satisfied with some solutions I used and will revisit this page later.
 
 Screenshot: 
-![alt text](http://i.imgur.com/MZx3sRe.png)
+
+![alt text](http://i.imgur.com/jArGEo3.png)
